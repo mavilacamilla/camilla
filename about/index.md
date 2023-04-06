@@ -6,32 +6,49 @@ date: 2016-03-21
 comments: false
 ---
     
-<center><a href="http://taylantatli.github.io/Moon"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>
+<!--<center><a href="http://taylantatli.github.io/Moon"><b>CV</b></a> is a minimal, one column jekyll theme.</center> <-->
 
-## Features
-* Minimal, you can focus on your content
-* Responsive
-* Disqus integration
-* Syntax highlighting
-* Optional post image
-* Social icons
-* Page for sharing projects
-* Optional background image
-* Simple navigation menu
-* MathJax support
+<center><p>If you like, you can download my </p><a href="https://drive.google.com/file/d/1qGlpzzfgkXpHx_l4wmmk-MRTaaJ5YK9a/view?usp=sharing"><b>CV</b></a> or view some of my work on this page.</center>
 
-## Preview
+## Hard Skills 
+* Rstudio
+* Python
+* SQL
+* Git
 
-{% capture images %}
-    https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png
-    https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-11e6-879f-8308883de790.png
-{% endcapture %}
-{% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %}
+## Solf Skills 
+* Communication 
+* Analysis 
+* Analytical thinking 
+* Research 
+* Questioning 
+* Ambitious
 
-See a [live version of Moon](http://taylantatli.github.io/Moon) hosted on GitHub.
+## Professional Training 
 
-## Getting Started
+* WBDS LA Pre-Camp: Bash e Git/GitHub |
+20hrs 
+* WBDS LA: Introduction to Python | 50hrs 
+WBDS LA: Introduction to Data Analysis with Python| 50 hrs
+* University of Michigan | Introduction to
+Structures Query Language (SQL) 
+* Núcleo de Robótica Pequi Mecâcino: Process Automation with Python | 5 hrs 
 
-To learn how to install and use this theme check out the [Setup Guide](http://taylantatli.me/Moon/moon-theme/) for more information.
+## Work Experience 
+
+* Research student|From Childhood to Maturity: Investigating Human Development through a Psychobiological and Evolutionary Perspective | 2018-2018
+
+* Board | Biological Sciences Student Association |2018-2019 |
+Responsible for attending to the academic demands of Biological Sciences students, as well as promoting extension activities and events.
+
+* PIBIC | Theoretical Ecology and Synthesis Laboratory |2019-2020 |
+Investigated evolutionary rescue and adaptive response to climate change in populations of the Micrurus lemniscatus complex. Developed skills include eco-population models, statistical analysis, data visualization, and Rstudio.
+
+* PIBIC | Theoretical Ecology and Synthesis Laboratory |2020-2021 |
+Designed experiments and collected data on evolutionary rescue and diversity in Cerrado amphibians. Developed skills include statistical analysis and scientific communication 
+
+* PIBIC | Theoretical Ecology and Synthesis Laboratory |2021-2022 |
+Conducted on-site data collection to study the distribution and evolutionary rescue of Aedes aegypti and Aedes albopictus under climate change. Developed skills include experimental design, data management, statistical analysis using GIS and statistical software, scientific writing and communication, and knowledge of mosquito biology and ecology.
+
       
-[Install Moon](https://github.com/TaylanTatli/Moon){: .btn}
+[Lattes Curriculum](http://lattes.cnpq.br/9326098337353690){: .btn}
