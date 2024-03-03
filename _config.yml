@@ -1,7 +1,7 @@
 # Site
 title:              Camilla de  Ávila
-bio:                'Passionate biologist with  interest in evolution, ecology, sustentabily and data science. Sharing my work, discoveries, reflections, and anything else I believe is worth sharing here.'
-description:        "I'll use this site to share my journey into computational biology"
+bio:                'Curious biologist using a quantitative approach to adress biology-related problems. Sharing my work, discoveries, reflections, and anything else I believe is worth sharing here.'
+description:        "Personal website "
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/camilla.png'
