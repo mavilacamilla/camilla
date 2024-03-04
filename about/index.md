@@ -22,7 +22,7 @@ comments: false
 * Analytical thinking 
 * Research 
 * Questioning 
-* Ambitious
+* Ambition
 
 ## Professional Training 
 
@@ -30,7 +30,8 @@ comments: false
 *  **WBDS LA: Introduction to Python** 50hrs 
 *  **WBDS LA: Introduction to Data Analysis with Python** 50 hrs
 * **University of Michigan: Introduction to Structures Query Language (SQL)** 
-*  **Núcleo de Robótica Pequi Mecâcino: Process Automation with Python** 5 hrs 
+*  **Núcleo de Robótica Pequi Mecâcino: Process Automation with Python** 5 hrs
+*  **Instituto Serrapilheira - Training Program in Quantitative Ecology ** 
 
 ## Work Experience 
 
@@ -55,6 +56,11 @@ comments: false
 &nbsp;
 
 >Conducted on-site data collection to study the distribution and evolutionary rescue of Aedes aegypti and Aedes albopictus under climate change. Developed skills include experimental design, data management, statistical analysis using GIS and statistical software, scientific writing and communication, and knowledge of mosquito biology and ecology.
+
+* <font color=blue> Intership <font color= black>Brazilian Agricultural Research Corporation (Embrapa) <font color=blue> 2023-2023 <font color= black>
+&nbsp;
+
+>Contributed to the development of a R script function designed to automate morphometric data collection from digital images of rice and beans
 
       
 [Lattes Curriculum](http://lattes.cnpq.br/9326098337353690){: .btn}
