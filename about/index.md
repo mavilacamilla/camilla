@@ -31,7 +31,7 @@ comments: false
 *  **WBDS LA: Introduction to Data Analysis with Python** 50 hrs
 * **University of Michigan: Introduction to Structures Query Language (SQL)** 
 *  **Núcleo de Robótica Pequi Mecâcino: Process Automation with Python** 5 hrs
-*  **Instituto Serrapilheira - Training Program in Quantitative Ecology ** 
+*  **Instituto Serrapilheira - Training Program in Quantitative Ecology** 
 
 ## Work Experience 
 
