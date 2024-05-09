@@ -3,6 +3,7 @@ layout: post
 title: "Gravidez na Adolescência e Desigualdade Social"
 date: 2022-09-07
 excerpt: "Trabalho desenvolvido para a disciplina de Análise de Dados no R"
+project: true
 tags: [portfolio, data science, statistics, R]
 feature: https://i.imgur.com/C0JIpza.png
 comments: true
