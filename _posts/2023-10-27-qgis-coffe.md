@@ -3,8 +3,8 @@ layout: post
 title: "Goiás Coffee Production"
 date: 2023-10-27
 excerpt: "QGis Map"
-project: false
-tags: [QGis, Geospacialdata, data]
+project: true
+tags: [QGis, GeoSpacial Data, GIS]
 comments: true
 ---
 
