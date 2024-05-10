@@ -21,8 +21,7 @@ Puc Minas Virtual
 
 # Work Experience 
 
-` 2018-2018` 
-__Research Student__  
+`2018-2018` __Research Student__  
 Research student of the Project *From Childhood to Maturity:Investigating Human Development through a Psychobiological and Evolutionary Perspective* 
 
 `2018-2019` __Board Member of Biological Sciences Student Association__   Responsible for attending to the academic demands of Biological Sciences students, as well as promoting extension activities and events.

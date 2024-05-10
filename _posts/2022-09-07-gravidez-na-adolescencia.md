@@ -11,6 +11,9 @@ comments: true
 
 #### Trabalho desenvolvido para a disciplina de "Análise de Dados no R" que cursei durante meu bacharelado na Universidade Federal de Goiás. 
 
+
+[GitHub Repo](https://github.com/mavilacamilla/DataAnalysisProjectUFG/){: .btn}
+
 # Gravidez na Adolescência e Desigualdade Social
 
 ## Introdução
